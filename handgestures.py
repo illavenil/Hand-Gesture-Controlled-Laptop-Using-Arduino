@@ -1,4 +1,4 @@
-mport serial #Serial imported for Serial communication
+import serial #Serial imported for Serial communication
 import time #Required to use delay functions
 import pyautogui
 
